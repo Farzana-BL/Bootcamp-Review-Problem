@@ -1,0 +1,10 @@
+#!/bin/bash -x
+#if emp present => calculate salary, if absentt sal is 0
+#where emp sal per hr is = 20rs
+#emp working hrs per day = 8 hrs
+
+empTotalSalary=0
+empWorkingHrsPerDay=8
+empSalaryPerHr=20
+
+randomvalue=$RANDOM
