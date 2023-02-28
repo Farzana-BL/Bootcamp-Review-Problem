@@ -1,0 +1,20 @@
+total 2840
+-rw-rw-r--  1 user user      95 Feb 14 20:16 cmdFile
+-rw-rw-r--  1 user user      95 Feb 15 10:46 cmdSort
+-rw-rw-r--  1 user user 2542874 Feb  8 12:52 Day-0.pdf
+-rw-rw-r--  1 user user     249 Feb 15 13:45 ForLoop1.sh
+-rw-rw-r--  1 user user      36 Feb 14 21:43 hello.sh
+-rw-rw-r--  1 user user     119 Feb 15 13:45 HelloWorld.sh
+-rw-rw-r--  1 user user     272 Feb 15 13:47 IfElse1.sh
+-rw-rw-r--  1 user user       0 Feb 15 13:52 lslong.txt
+-rw-rw-r--  1 user user     224 Feb 15 13:52 ls.txt
+-rw-rw-r--  1 user user  300538 Feb 11 22:01 Screenshot from 2023-02-11 21-35-59.png
+drwxrwxr-x  2 user user    4096 Feb 15 13:52 ShellPrograms
+-rw-rw-r--  1 user user    6233 Feb 15 13:43 ShellPrograms.zip
+drwxrwxrwx 12 user user    4096 Feb  1 11:41 TerminalCommands
+-rw-rw-r--  1 user user       0 Feb 14 13:15 testa
+-rw-rw-r--  1 user user       0 Feb 14 13:15 testb
+-rw-rw-r--  1 user user     308 Feb 15 10:38 test.sh
+-rw-rw-r--  1 user user     148 Feb 15 13:45 UserInput.sh
+-rw-rw-r--  1 user user     281 Feb 15 13:46 WhileLoop1.sh
+-rw-rw-r--  1 user user      66 Feb 14 21:54 world.sh

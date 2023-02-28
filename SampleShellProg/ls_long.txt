@@ -1,0 +1,15 @@
+total 52
+-rw-rw-r-- 1 user user  234 Feb 15 14:27 10_DateTime.sh
+-rw-rw-r-- 1 user user  119 Feb 15 13:45 1_HelloWorld.sh
+-rw-rw-r-- 1 user user  148 Feb 15 13:45 2_UserInput.sh
+-rw-rw-r-- 1 user user  249 Feb 15 13:45 3_ForLoop1.sh
+-rw-rw-r-- 1 user user  281 Feb 15 13:46 4_WhileLoop1.sh
+-rw-rw-r-- 1 user user  272 Feb 15 13:47 5_IfElse1.sh
+-rw-rw-r-- 1 user user  201 Feb 15 14:24 6_CLA.sh
+-rw-rw-r-- 1 user user  177 Feb 15 17:02 7_ReadFile.sh
+-rw-rw-r-- 1 user user  205 Feb 15 14:25 8_InputWriteToFile.sh
+-rw-rw-r-- 1 user user  270 Feb 15 14:27 9_Slicing.sh
+-rw-rw-r-- 1 user user  169 Feb 15 19:41 ls_cmd.txt
+-rw-rw-r-- 1 user user    0 Feb 15 19:43 ls_long.txt
+-rw-rw-r-- 1 user user 1101 Feb 15 13:52 lslong.txt
+-rw-rw-r-- 1 user user   46 Feb 15 19:42 pwd_cmd.txt
